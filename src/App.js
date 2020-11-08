@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          HelloWorld! Good to learn the react refresh! It feels
+          awesome to have docker compose issue resolved!
         </p>
         <a
           className="App-link"
